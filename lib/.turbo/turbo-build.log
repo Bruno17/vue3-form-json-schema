@@ -1,0 +1,11 @@
+[35mvue3-form-json-schema:build: [0mcache hit, replaying output [2mefb7195cca7e0850[0m
+[35mvue3-form-json-schema:build: [0m
+[35mvue3-form-json-schema:build: [0m> vue3-form-json-schema@3.0.0-alpha.mz3 build /home/jelastic/ROOT/vfjs/vue3-form-json-schema/lib
+[35mvue3-form-json-schema:build: [0m> vite build
+[35mvue3-form-json-schema:build: [0m
+[35mvue3-form-json-schema:build: [0mvite v2.8.6 building for production...
+[35mvue3-form-json-schema:build: [0mtransforming...
+[35mvue3-form-json-schema:build: [0m✓ 968 modules transformed.
+[35mvue3-form-json-schema:build: [0mrendering chunks...
+[35mvue3-form-json-schema:build: [0mdist/vue3-form-json-schema.es.js   330.07 KiB / gzip: 69.83 KiB
+[35mvue3-form-json-schema:build: [0mdist/vue3-form-json-schema.umd.js   169.04 KiB / gzip: 52.81 KiB

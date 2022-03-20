@@ -1,0 +1,13 @@
+[32mexample-1:build: [0mcache hit, replaying output [2md093f6ad2143cef4[0m
+[32mexample-1:build: [0m
+[32mexample-1:build: [0m> example-1@0.0.1 build /home/jelastic/ROOT/vfjs/vue3-form-json-schema/examples/es/example-1
+[32mexample-1:build: [0m> vite build
+[32mexample-1:build: [0m
+[32mexample-1:build: [0mvite v2.8.6 building for production...
+[32mexample-1:build: [0mtransforming...
+[32mexample-1:build: [0m✓ 12 modules transformed.
+[32mexample-1:build: [0mrendering chunks...
+[32mexample-1:build: [0mdist/index.html                  0.65 KiB
+[32mexample-1:build: [0mdist/assets/index.a699e93c.css   0.15 KiB / gzip: 0.13 KiB
+[32mexample-1:build: [0mdist/assets/vendor.cf56d6a6.js   50.76 KiB / gzip: 20.39 KiB
+[32mexample-1:build: [0mdist/assets/index.c33e8f35.js    171.21 KiB / gzip: 53.97 KiB
